@@ -14,7 +14,8 @@ Analyze the dataset to make actionable insights to retain customers and increase
 - Continue cleaning the dataset, perform your EDA and build a decision tree model.Try to improve the accuracy of your decision tree. Share the changes and improvements.
 
 
-![Telco_Churn_analysis_photo](/img/TelcoChurn2.png width="300" height="300")
+<img src="/img/TelcoChurn2.png" alt="TelcoChurn"
+	title="Telco" width="800" height="300" />
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14daGKbJn8oBZ-Afnerxgzswgai5EN6bt?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GjMfp3-PVpd01IWHWKgP2rf0bTiHCQtz?usp=sharing)
 
