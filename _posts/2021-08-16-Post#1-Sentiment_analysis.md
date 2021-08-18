@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "#1 Sentiment Analysis"
+title: "Sentiment Analysis."
+subtitle: "Sentiment Analysis for women’s clothing E-commerce platform."
 background: '/img/posts/Sentiment-Analysis/vintage-shopping.jpg'
 ---
 
