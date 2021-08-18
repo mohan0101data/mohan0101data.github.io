@@ -1,4 +1,4 @@
-I"z<p><strong>Problem Statement:</strong></p>
+I" <p><strong>Problem Statement:</strong></p>
 
 <p>Analyze the dataset to make actionable insights to retain customers and increase customerâ€™s lifetime values.</p>
 
@@ -6,7 +6,7 @@
   <li>Continue cleaning the dataset, perform your EDA and build a decision tree model.Try to improve the accuracy of your decision tree. Share the changes and improvements.</li>
 </ul>
 
-<p><img src="/img/posts/TelcoChurn2.png" alt="Telco_Churn_analysis_photo" /></p>
+<p><img src="/img/TelcoChurn2.png style=&quot;width:500px;height:600px;&quot;" alt="Telco_Churn_analysis_photo" /></p>
 
 <p><a href="https://colab.research.google.com/drive/14daGKbJn8oBZ-Afnerxgzswgai5EN6bt?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></p>
 
