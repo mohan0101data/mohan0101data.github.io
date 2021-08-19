@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Sentiment Analysis Using Natural Language Processing (NLP)."
-subtitle: "Sentiment Analysis for women’s clothing
-           e-commerce platform."
+subtitle: "Sentiment Analysis for women’s clothing e-commerce platform."
 background: '/img/posts/Sentiment-Analysis/vintage-shopping.jpg'
 ---
 
