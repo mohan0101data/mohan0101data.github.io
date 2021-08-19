@@ -6,8 +6,7 @@ background: '/img/posts/Sentiment-Analysis/vintage-shopping.jpg'
 ---
 **Sentiment Analysis for women’s clothing E-commerce reviews.**
 
-- Sentiment analysis is a highly effective tool for a business to not only take a look at the overall brand perception, but also evaluate customer attitudes and emotions towards a specific product line or service.
-- This data-driven approach can help the business better understand the customers and detect subtle shifts in their opinions in order to meet changing demand.
+Sentiment analysis is a highly effective tool for a business to not only take a look at the overall brand perception, but also evaluate customer attitudes and emotions towards a specific product line or service. This data-driven approach can help the business better understand the customers and detect subtle shifts in their opinions in order to meet changing demand.
 
 
 **Problem Statement:**
