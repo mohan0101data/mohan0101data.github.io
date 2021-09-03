@@ -2,7 +2,7 @@
 layout: post
 title: "Sentiment Analysis Using Natural Language Processing (NLP)."
 subtitle: "Sentiment Analysis for women’s clothing e-commerce platform."
-background: '/img/posts/Sentiment-Analysis/vintage-shopping.jpg'
+background: '/img/vintage-shopping.jpg'
 ---
 **Sentiment Analysis for women’s clothing E-commerce reviews.**
 
@@ -15,7 +15,7 @@ In this, we have to predict the number of positive and negative reviews based on
 Using OSEMN framework.
 
 
-![Sentiment_analysis_photo](/img/posts/Sentiment Analysis1.png)
+![Sentiment_analysis_photo](/img/Sentiment Analysis1.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14daGKbJn8oBZ-Afnerxgzswgai5EN6bt?usp=sharing)
 
