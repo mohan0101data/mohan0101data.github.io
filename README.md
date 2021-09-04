@@ -127,6 +127,7 @@ When using the core files, the demo images, posts, and pages are all included wi
     * `github_username` (Optional)
     * `linkedin_username` (Optional)
     * `instagram_username` (Optional)
+    * `kaggle_username` (optional)
 
 3. Build your site: `bundle exec jekyll serve`
 
